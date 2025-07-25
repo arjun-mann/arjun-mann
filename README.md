@@ -1,7 +1,11 @@
-## Hey there, I'm Arjun 👋
-I'm currently a software engineer intern at <strong><a href="https://metricanalytics.io/">Metric Analytics</a></strong> and a former intern at <strong><a href="https://www.lumberfi.com/">Lumber</a></strong> based in Kirkland, WA.  
-I study Computer Science with a specialization in Artificial Intelligent Systems at <strong><a href="https://cs.ics.uci.edu/">UC Irvine</a></strong>.  
+<h2 align="center">Hey there, I'm Arjun 👋</h2>
+<div align="center">
+
+I’m currently a software engineer intern at <strong><a href="https://metricanalytics.io/">Metric Analytics</a></strong> and a former intern at <strong><a href="https://www.lumberfi.com/">Lumber</a></strong> based in Kirkland, WA.  
+I study Computer Science with a specialization in Artificial Intelligent Systems at <strong><a href="https://cs.ics.uci.edu/">UC Irvine</a></strong>.  
 In my free time I like hosting board game nights, meeting new people, and am currently reading <strong><a href="https://www.amazon.com/UNIX-History-Memoir-Brian-Kernighan/dp/1695978552">Unix: A History and a Memoir</a></strong>.
+
+</div>
 
 <!--
 **arjun-mann/arjun-mann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +25,7 @@ Here are some ideas to get you started:
 <h2>🚀 Some Tools I've Used</h2>
 
 
-<p align="left">
+<p align="center">
 <img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=Java&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=Python&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white" />
@@ -45,9 +49,15 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=Git&logoColor=white" />
 </p>
 
-Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-mann&theme=default&show_icons=true&hide_border=false&layout=compact" 
+    alt="arjun-mann's Top Languages" 
+  />
+</p>
+<p align="center">Here are some 🦜 party parrots(https://cultofthepartyparrot.com):</p>
 
-<div>
+<div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="30" height="30"/>
