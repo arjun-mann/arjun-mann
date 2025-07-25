@@ -1,7 +1,7 @@
 <h2 align="center">Hey there, I'm Arjun 👋</h2>
 <div align="center">
 
-I’m currently a software engineer intern at <strong><a href="https://metricanalytics.io/">Metric Analytics</a></strong> and a former intern at <strong><a href="https://www.lumberfi.com/">Lumber</a></strong> based in Kirkland, WA.  
+I’m currently a software engineer intern at <strong><a href="https://metricanalytics.io/">Metric Analytics</a></strong> and a former software engineer intern at <strong><a href="https://www.lumberfi.com/">Lumber</a></strong> based in Kirkland, WA.  
 I study Computer Science with a specialization in Artificial Intelligent Systems at <strong><a href="https://cs.ics.uci.edu/">UC Irvine</a></strong>.  
 In my free time I like hosting board game nights, meeting new people, and am currently reading <strong><a href="https://www.amazon.com/UNIX-History-Memoir-Brian-Kernighan/dp/1695978552">Unix: A History and a Memoir</a></strong>.
 
