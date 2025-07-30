@@ -1,4 +1,4 @@
-<h2 align="center">Hey there, I'm Arjun 👋</h2>
+<h2 align="center">Hi, I'm Arjun, Welcome to my Github! 👋</h2>
 <div align="center">
 
 I’m currently a former swe intern at <strong><a href="https://www.lumberfi.com/">Lumber</a></strong>.  
