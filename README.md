@@ -1,7 +1,7 @@
-<h2 align="center">Hi, I'm Arjun, Welcome to my Github! 👋</h2>
+<h2 align="center">Hiya I'm Arjun, Welcome to my Github! 😄</h2>
 <div align="center">
 
-I’m currently a former swe intern at <strong><a href="https://www.lumberfi.com/">Lumber</a></strong>.  
+I’m currently a software engineer intern at <strong><a href="https://metricanalytics.io/">Metric Analytics</a></strong> and a former swe intern at <strong><a href="https://www.lumberfi.com/">Lumber</a></strong>.  
 I study Computer Science with a specialization in Artificial Intelligent Systems at <strong><a href="https://cs.ics.uci.edu/">UC Irvine</a></strong>.  
 In my free time I like hosting board game nights, meeting new people, and am currently reading <strong><a href="https://www.amazon.com/UNIX-History-Memoir-Brian-Kernighan/dp/1695978552">Unix: A History and a Memoir</a></strong>.
 
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
     alt="arjun-mann's Top Languages" 
   />
 </p>
-<p align="center">Here are some 🦜 party parrots(https://cultofthepartyparrot.com):</p>
+<p align="center"><a href="https://cultofthepartyparrot.com"> 🦜🪩🦜🪩🦜 meet my friends 😎</a></p> 
 
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
