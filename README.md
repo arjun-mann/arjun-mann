@@ -1,4 +1,4 @@
-<h2 align="center">Hiya I'm Arjun, Welcome to my Github! 😄</h2>
+<h2 align="center">Hi I'm Arjun, Welcome to my Github! 😄</h2>
 <div align="center">
 
 I’m currently a software engineer intern at <strong><a href="https://metricanalytics.io/">Metric Analytics</a></strong> and a former swe intern at <strong><a href="https://www.lumberfi.com/">Lumber</a></strong>.  
