@@ -3,7 +3,7 @@
 
 I’m currently a software engineer intern at <strong><a href="https://metricanalytics.io/">Metric Analytics</a></strong> and a former swe intern at <strong><a href="https://www.lumberfi.com/">Lumber</a></strong>.  
 I study Computer Science with a specialization in Artificial Intelligent Systems at <strong><a href="https://cs.ics.uci.edu/">UC Irvine</a></strong>.  
-I like playing board games, meeting new people, and am currently reading <strong><a href="https://www.amazon.com/Natural-Language-Processing-Transformers-Revised/dp/1098136799">NLP with Transformers</a></strong>.
+I like playing board games, meeting new people, and am currently reading <strong><a href="https://www.amazon.com/Obstacle-Way-Timeless-Turning-Triumph/dp/1591846358">The Obstacle Is the Way</a></strong>.
 
 </div>
 
