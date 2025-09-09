@@ -1,4 +1,4 @@
-<h2 align="center">Hi I'm Arjun, Welcome to my Github! 😄</h2>
+<h2 align="center">Hi I'm Arjun, Welcome to my Github! ^_^</h2>
 <div align="center">
 
 I’m currently a software engineer intern at <strong><a href="https://www.lumberfi.com/">Lumber</a></strong> and a former swe intern at <strong><a href="https://metricanalytics.io/">Metric Analytics</a></strong>.  
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>🚀 Languages/Skills</h2>
+<h2>🚀 Languages/Tools</h2>
 
 
 <p align="center">
