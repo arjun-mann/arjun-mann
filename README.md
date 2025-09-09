@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>🚀 Some Tools I've Used</h2>
+<h2>🚀 Languages/Skills</h2>
 
 
 <p align="center">
