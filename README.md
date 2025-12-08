@@ -49,12 +49,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=Git&logoColor=white" />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-mann&theme=default&show_icons=true&hide_border=false&layout=compact" 
-    alt="arjun-mann's Top Languages" 
-  />
-</p>
 <p align="center"><a href="https://cultofthepartyparrot.com"> 🦜🪩🦜🪩🦜 meet my friends 😎</a></p> 
 
 <div align="center">
