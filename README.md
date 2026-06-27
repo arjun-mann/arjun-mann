@@ -1,9 +1,9 @@
 <h2 align="center">Hi I'm Arjun, Welcome to my Github! ^_^</h2>
 <div align="center">
 
-I’m currently a software engineer intern at <strong><a href="https://www.coxautoinc.com/">Cox Automotive</a></strong> and a former swe intern at <strong><a href="https://www.lumberfi.com/">Lumber</a></strong> and <strong><a href="https://metricanalytics.io/">Metric Analytics</a></strong>.  
+I’m currently a software engineer intern at <strong><a href="https://www.oracle.com/">Oracle</a></strong>  and a former swe intern at <strong><a href="https://www.coxautoinc.com/">Cox Automotive</a></strong>, <strong><a href="https://www.lumberfi.com/">Lumber</a></strong>, <strong><a href="https://metricanalytics.io/">Metric Analytics</a></strong>.  
 I'm a 3rd year studying Computer Science at <strong><a href="https://cs.ics.uci.edu/">UC Irvine</a></strong>.  
-I like playing board games, meeting new people, and am currently reading <strong><a href="https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882](https://www.amazon.com/Life-Ascending-Great-Inventions-Evolution/dp/0393338665">Life Ascending: The Ten Great Inventions of Evolution</a></strong>.
+I like playing board games, meeting new people, and am currently reading <strong><a href="https://www.amazon.com/Computer-Networking-Global-James-Kurose/dp/1292405465/ref=pd_lpo_d_sccl_2/132-7326089-3288743?pd_rd_w=eoI4e&content-id=amzn1.sym.4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_p=4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_r=WCBM5N4XXYD6RJ0R5145&pd_rd_wg=S7Uln&pd_rd_r=93a4f564-d7c6-4d46-9c15-dac5ade0c0fe&pd_rd_i=1292405465&psc=1">Computer Networking: A top down approach</a></strong>.
 
 </div>
 
